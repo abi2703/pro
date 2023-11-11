@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+#title{
+  margin-top: -9px;
+  font-weight: 'bold';
+  font-size: 35px;
+}
+
+.form{
+margin-top: -19px;
+
+}
+.input{
+  width: 250px;
+  padding: 6px;
+  margin: 6px;
+  border-radius: 10px
+}
+
+.checkbox{
+  margin-right: 95px;
+}
+
+.button{
+ margin-top: 20px;
+ width: 100px;
+ padding: 7px;
+ border-radius: 20px;
+ background-color: blueviolet;
+ color: aliceblue;
+}
+.footer{
+  margin-top: 90px;
+}
